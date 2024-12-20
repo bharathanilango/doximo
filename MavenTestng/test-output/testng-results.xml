@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="181" started-at="2024-12-19T09:17:54Z" finished-at="2024-12-19T09:17:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="181" started-at="2024-12-19T09:17:54Z" finished-at="2024-12-19T09:17:54Z">
+      <class name="org.testng.Rerunpractie">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testng.Rerunpractie@1a968a59]" name="tc1" duration-ms="61" started-at="2024-12-19T14:47:54Z" finished-at="2024-12-19T14:47:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testng.Rerunpractie@1a968a59]" name="tc2" duration-ms="14" started-at="2024-12-19T14:47:54Z" finished-at="2024-12-19T14:47:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.testng.Rerunpractie@1a968a59]" name="tc3" duration-ms="7" started-at="2024-12-19T14:47:54Z" finished-at="2024-12-19T14:47:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- org.testng.Rerunpractie -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

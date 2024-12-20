@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Suite]]">
+  <parameter name="password" value="Bharathan@111"/>
+  <parameter name="name" value="Bharathan"/>
+  <test name="Test(failed)(failed)" preserve-order="true">
+    <parameter name="password" value="Bharathan@111"/>
+    <parameter name="name" value="Bharathan"/>
+    <classes>
+      <class name="org.testng.practice.ParaPractice">
+        <methods>
+          <include name="instaLogin" invocation-numbers="0"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
